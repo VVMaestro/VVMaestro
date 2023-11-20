@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/aquaroquefort"><img src="https://api.daily.dev/devcards/01e49d40279b4dc299b6f02696185173.png?r=3ac" width="400" alt="Valentine's Dev Card"/></a>
+
 <!--
 **VVMaestro/VVMaestro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
